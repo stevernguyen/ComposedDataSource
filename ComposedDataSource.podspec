@@ -1,13 +1,8 @@
 Pod::Spec.new do |s|
   s.name             = "ComposedDataSource"
   s.version          = "0.1.0"
-  s.summary          = "A short description of ComposedDataSource."
-  s.description      = <<-DESC
-                       An optional longer description of ComposedDataSource
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
+  s.summary          = "[Objective-C] A simple library that allows you to create complex table view layouts"
+  s.description      = "A simple library that allows you to create complex table view layouts. Can using single data source, multiple data source"
   s.homepage         = "https://github.com/stevernguyen/ComposedDataSource"
 
   s.license          = 'MIT'
