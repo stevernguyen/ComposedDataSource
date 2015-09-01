@@ -1,2 +1,2 @@
 # [ComposedDataSource] 
-Convert switf (source: https://github.com/ortuman/ComposedDataSource) to objective-C
+Convert switf (https://github.com/ortuman/ComposedDataSource) to objective-C
